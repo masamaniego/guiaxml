@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+
+  <programme start="20210131010000 -0600" stop="20210131023000 -0600" channel="PA: CANAL 2">
+    <title lang="es">La cáscara</title>
+  </programme>
+  <programme start="20210131023000 -0600" stop="20210131033000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Hecho en Panamá</title>
+  </programme>
+  <programme start="20210131033000 -0600" stop="20210131050000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Sabores del Chef</title>
+  </programme>
+  <programme start="20210131050000 -0600" stop="20210131063000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Resumen El Clon</title>
+  </programme>
+  <programme start="20210131063000 -0600" stop="20210131073000 -0600" channel="PA: CANAL 2">
+    <title lang="es">King Julien</title>
+  </programme>
+  <programme start="20210131073000 -0600" stop="20210131080000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Agro tv</title>
+  </programme>
+  <programme start="20210131080000 -0600" stop="20210131090000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20210131090000 -0600" stop="20210131110000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Radar</title>
+  </programme>
+  <programme start="20210131110000 -0600" stop="20210131113000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Recetas Solidarias</title>
+  </programme>
+  <programme start="20210131113000 -0600" stop="20210131120000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Dragons riders of berk</title>
+  </programme>
+  <programme start="20210131120000 -0600" stop="20210131123000 -0600" channel="PA: CANAL 2">
+    <title lang="es">El pop corn</title>
+  </programme>
+  <programme start="20210131123000 -0600" stop="20210131153000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Resumen Fuerza de Mujer</title>
+  </programme>
+  <programme start="20210131153000 -0600" stop="20210131180000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210131180000 -0600" stop="20210131190000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Noticias fin de semana</title>
+  </programme>
+  <programme start="20210131190000 -0600" stop="20210131213000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Snow White and the Huntsman</title>
+  </programme>
+  <programme start="20210131213000 -0600" stop="20210131233000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Stomp the yard Homecoming</title>
+  </programme>
+  <programme start="20210131233000 -0600" stop="20210201003000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Los reyes del humor</title>
+  </programme>
+  <programme start="20210201233000 -0600" stop="20210202003000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Los reyes del humor</title>
+  </programme>
+  <programme start="20210202003000 -0600" stop="20210202030000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Radar</title>
+  </programme>
+  <programme start="20210202030000 -0600" stop="20210202040000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Sabores del Chef</title>
+  </programme>
+  <programme start="20210202040000 -0600" stop="20210202050000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Hecho en Panamá</title>
+  </programme>
+  <programme start="20210202050000 -0600" stop="20210202060000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Fuerza de Mujer</title>
+  </programme>
+  <programme start="20210202060000 -0600" stop="20210202080000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Noticiero AM</title>
+  </programme>
+  <programme start="20210202080000 -0600" stop="20210202110000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Jelou</title>
+  </programme>
+  <programme start="20210202110000 -0600" stop="20210202120000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Dr. oz</title>
+  </programme>
+  <programme start="20210202120000 -0600" stop="20210202130000 -0600" channel="PA: CANAL 2">
+    <title lang="es">TVN Noticias -medio día</title>
+  </programme>
+  <programme start="20210202130000 -0600" stop="20210202140000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Al Rojo Vivo</title>
+  </programme>
+  <programme start="20210202140000 -0600" stop="20210202160000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Guerra de las rosas</title>
+  </programme>
+  <programme start="20210202160000 -0600" stop="20210202180000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210202180000 -0600" stop="20210202193000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Noticiero estelar</title>
+  </programme>
+  <programme start="20210202193000 -0600" stop="20210202210000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Fuerza de Mujer</title>
+  </programme>
+  <programme start="20210202210000 -0600" stop="20210202223000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Fruto prohíbido</title>
+  </programme>
+  <programme start="20210202223000 -0600" stop="20210202230000 -0600" channel="PA: CANAL 2">
+    <title lang="es">100 días para enamorarnos</title>
+  </programme>
+  <programme start="20210202230000 -0600" stop="20210203000000 -0600" channel="PA: CANAL 2">
+    <title lang="es">El clon</title>
+  </programme>
+  <programme start="20210203010000 -0600" stop="20210203020000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Hecho en Panamá</title>
+  </programme>
+  <programme start="20210203020000 -0600" stop="20210203050000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Jelou</title>
+  </programme>
+  <programme start="20210203050000 -0600" stop="20210203060000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Fuerza de Mujer</title>
+  </programme>
+  <programme start="20210203060000 -0600" stop="20210203080000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Noticiero AM</title>
+  </programme>
+  <programme start="20210203080000 -0600" stop="20210203110000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Jelou</title>
+  </programme>
+  <programme start="20210203110000 -0600" stop="20210203120000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Dr. oz</title>
+  </programme>
+  <programme start="20210203120000 -0600" stop="20210203130000 -0600" channel="PA: CANAL 2">
+    <title lang="es">TVN Noticias -medio día</title>
+  </programme>
+  <programme start="20210203130000 -0600" stop="20210203140000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Al Rojo Vivo</title>
+  </programme>
+  <programme start="20210203140000 -0600" stop="20210203160000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Guerra de las rosas</title>
+  </programme>
+  <programme start="20210203160000 -0600" stop="20210203180000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210203180000 -0600" stop="20210203193000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Noticiero estelar</title>
+  </programme>
+  <programme start="20210203193000 -0600" stop="20210203210000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Fuerza de Mujer</title>
+  </programme>
+  <programme start="20210203210000 -0600" stop="20210203223000 -0600" channel="PA: CANAL 2">
+    <title lang="es">Fruto prohíbido</title>
+  </programme>
+  <programme start="20210203223000 -0600" stop="20210203230000 -0600" channel="PA: CANAL 2">
+    <title lang="es">100 días para enamorarnos</title>
+  </programme>
+  <programme start="20210203230000 -0600" stop="20210204000000 -0600" channel="PA: CANAL 2">
+    <title lang="es">El clon</title>
+  </programme>
+
+ <programme start="20210130003000 +0100" stop="20210130010000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Mas que Cine</title>
+  </programme>
+  <programme start="20210130010000 +0100" stop="20210130023000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Quién TV</title>
+  </programme>
+  <programme start="20210130023000 +0100" stop="20210130033000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Telemetro Reporta</title>
+  </programme>
+  <programme start="20210130033000 +0100" stop="20210130050000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Muertos de Hambre</title>
+  </programme>
+  <programme start="20210130050000 +0100" stop="20210130070000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Animados</title>
+  </programme>
+  <programme start="20210130070000 +0100" stop="20210130090000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Animados</title>
+  </programme>
+  <programme start="20210130090000 +0100" stop="20210130100000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Animados</title>
+  </programme>
+  <programme start="20210130100000 +0100" stop="20210130103000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Mamás and CO</title>
+  </programme>
+  <programme start="20210130103000 +0100" stop="20210130133000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Cinema Telemetro</title>
+  </programme>
+  <programme start="20210130133000 +0100" stop="20210130163000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Cinema Telemetro</title>
+  </programme>
+  <programme start="20210130163000 +0100" stop="20210130180000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Cinema Telemetro</title>
+  </programme>
+  <programme start="20210130180000 +0100" stop="20210130190000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Telemetro Reporta</title>
+  </programme>
+  <programme start="20210130190000 +0100" stop="20210130200000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">A lo Panameño</title>
+  </programme>
+  <programme start="20210130200000 +0100" stop="20210130211500 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Quién TV</title>
+  </programme>
+  <programme start="20210130211500 +0100" stop="20210131000000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Da'Flow Internacional</title>
+  </programme>
+  <programme start="20210131000000 +0100" stop="20210131003000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Muertos de Hambre</title>
+  </programme>
+  <programme start="20210131003000 +0100" stop="20210131020000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Quién TV</title>
+  </programme>
+  <programme start="20210131020000 +0100" stop="20210131023000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Mamás and CO</title>
+  </programme>
+  <programme start="20210131023000 +0100" stop="20210131030000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Telemetro Reporta</title>
+  </programme>
+  <programme start="20210131030000 +0100" stop="20210131040000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Mas que Cine</title>
+  </programme>
+  <programme start="20210131040000 +0100" stop="20210131050000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">A lo Panameño</title>
+  </programme>
+  <programme start="20210131050000 +0100" stop="20210131080000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Animados</title>
+  </programme>
+  <programme start="20210131080000 +0100" stop="20210131090000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">La santa misa</title>
+  </programme>
+  <programme start="20210131090000 +0100" stop="20210131110000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Debate Abierto Dominical</title>
+  </programme>
+  <programme start="20210131110000 +0100" stop="20210131113000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Cara a Cara</title>
+  </programme>
+  <programme start="20210131113000 +0100" stop="20210131120000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Flor Mizrachi Pregunta</title>
+  </programme>
+  <programme start="20210131120000 +0100" stop="20210131123000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Mas que Cine</title>
+  </programme>
+  <programme start="20210131123000 +0100" stop="20210131130000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Muertos de Hambre</title>
+  </programme>
+  <programme start="20210131130000 +0100" stop="20210131143000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Las mil y una noches</title>
+  </programme>
+  <programme start="20210131143000 +0100" stop="20210131160000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Hercai</title>
+  </programme>
+  <programme start="20210131160000 +0100" stop="20210131180000 +0100" channel="PA: TELEMETRO">
+    <title lang="es">Cennet</title>
+  </programme>
+
+ <programme start="20210130010000 +0100" stop="20210130020000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">El After</title>
+  </programme>
+  <programme start="20210130020000 +0100" stop="20210130030000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">Poveda Tunai Show</title>
+  </programme>
+  <programme start="20210130030000 +0100" stop="20210130040000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">Infraganti</title>
+  </programme>
+  <programme start="20210130040000 +0100" stop="20210130050000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">Oración al Espiritu Santo</title>
+  </programme>
+  <programme start="20210130050000 +0100" stop="20210130060000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">Jaime Bayly</title>
+  </programme>
+  <programme start="20210130060000 +0100" stop="20210130100000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20210130100000 +0100" stop="20210130140000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20210130140000 +0100" stop="20210130180000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20210130180000 +0100" stop="20210130200000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20210130200000 +0100" stop="20210130210000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">Lo mejor del boxeo</title>
+  </programme>
+  <programme start="20210130210000 +0100" stop="20210131000000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20210131010000 +0100" stop="20210131020000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">We-Ken</title>
+  </programme>
+  <programme start="20210131020000 +0100" stop="20210131023000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">Rutas de mi País</title>
+  </programme>
+  <programme start="20210131023000 +0100" stop="20210131030000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">Mas que Cine</title>
+  </programme>
+  <programme start="20210131030000 +0100" stop="20210131040000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">Infraganti</title>
+  </programme>
+  <programme start="20210131040000 +0100" stop="20210131050000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">Oración al Espiritu Santo</title>
+  </programme>
+  <programme start="20210131050000 +0100" stop="20210131060000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20210131060000 +0100" stop="20210131063000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">Abrid las Puertas al Redentor</title>
+  </programme>
+  <programme start="20210131063000 +0100" stop="20210131070000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">Un mensaje al Corazón</title>
+  </programme>
+  <programme start="20210131070000 +0100" stop="20210131080000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">Agro y más</title>
+  </programme>
+  <programme start="20210131080000 +0100" stop="20210131110000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20210131110000 +0100" stop="20210131113000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">Rutas de mi País</title>
+  </programme>
+  <programme start="20210131113000 +0100" stop="20210131120000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">Arena ESports</title>
+  </programme>
+  <programme start="20210131120000 +0100" stop="20210131150000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20210131150000 +0100" stop="20210131180000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20210131180000 +0100" stop="20210131190000 +0100" channel="RPCCanal4.pa">
+    <title lang="es">Series RPC</title>
+  </programme>
+
+
+</tv>
